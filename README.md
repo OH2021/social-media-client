@@ -33,9 +33,5 @@ Request a review from your peers to help improve your submission.
 Make any final changes based on this feedback.
 Submit a link to the Open Pull Request on Moodle.
 
-Delivery:
-Please deliver an open Pull Request from branch workflow into your fork’s default branch.
-
-You may open a PR from workflow into the upstream default branch in addition, but this will not be graded.
-
-Please post your PR to the peer review forum and provide feedback to your peers when requested.
+Clone the repository:
+git clone <https://github.com/OH2021/social-media-client.git>
