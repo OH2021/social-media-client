@@ -33,5 +33,6 @@ Request a review from your peers to help improve your submission.
 Make any final changes based on this feedback.
 Submit a link to the Open Pull Request on Moodle.
 
-Clone the repository:
-git clone <https://github.com/OH2021/social-media-client.git>
+**Clone the repository**:
+   ```bash
+   git clone <git@github.com:OH2021/social-media-client.git>
